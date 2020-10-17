@@ -1,0 +1,6 @@
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\bin\Debug\AIMLbot.dll
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\bin\Debug\AIMLbot.pdb
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\obj\Debug\AIMLbot.csprojAssemblyReference.cache
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\obj\Debug\AIMLbot.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\obj\Debug\AIMLbot.dll
+C:\Users\Rob\Source\Repos\Aimlbot\AIMLbot\obj\Debug\AIMLbot.pdb

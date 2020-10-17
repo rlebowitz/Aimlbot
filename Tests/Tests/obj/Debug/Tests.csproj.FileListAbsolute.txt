@@ -1,0 +1,8 @@
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\bin\Debug\Tests.dll
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\bin\Debug\Tests.pdb
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\bin\Debug\AIMLbot.pdb
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\obj\Debug\Tests.csprojAssemblyReference.cache
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\obj\Debug\Tests.csproj.CopyComplete
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\obj\Debug\Tests.dll
+C:\Users\Rob\Source\Repos\Aimlbot\Tests\Tests\obj\Debug\Tests.pdb

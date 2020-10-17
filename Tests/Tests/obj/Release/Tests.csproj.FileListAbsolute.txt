@@ -1,0 +1,8 @@
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\bin\Release\Tests.dll
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\bin\Release\Tests.pdb
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\bin\Release\AIMLbot.pdb
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\obj\Release\Tests.csprojAssemblyReference.cache
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\obj\Release\Tests.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\obj\Release\Tests.csproj.CopyComplete
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\obj\Release\Tests.dll
+C:\Users\Rob\Downloads\AIMLbotSource2.5\AIMLbot\Tests\Tests\obj\Release\Tests.pdb
